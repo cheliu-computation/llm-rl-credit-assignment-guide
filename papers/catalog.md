@@ -4,6 +4,7 @@ Unified **Training / Evaluation / Analysis** list with clickable **📄 / 💻 /
 
 | Date | Cat | Work | Org | Links | OSS |
 |------|-----|------|-----|-------|-----|
+| 2026-10 | T | MultiAgent-OPD | Alibaba Group / Zhejiang University | [📄](https://arxiv.org/abs/2610.23234) · 💻 — · 📦 — | ❌ |
 | 2026-06 | A | GLM-5.2 | Zhipu | [📄](https://huggingface.co/blog/zai-org/glm-52-blog) · [💻](https://huggingface.co/zai-org) · 📦 — | ✅ |
 | 2026-06 | E | QVal | Tübingen | [📄](https://arxiv.org/abs/2606.32034) · 💻 — · 📦 — | ◐ |
 | 2026-06 | T | TRIAGE | — | [📄](https://arxiv.org/abs/2606.32017) · 💻 — · [📦 ALF](https://github.com/alfworld/alfworld) · [📦 WS](https://github.com/princeton-nlp/WebShop) | ◐ |
