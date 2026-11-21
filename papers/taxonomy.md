@@ -61,6 +61,7 @@ Homepage features major labs; this file indexes the broader method space with **
 
 | Paper | Method tag | Code | Data | OSS |
 |-------|------------|------|------|-----|
+| [MultiAgent-OPD](https://arxiv.org/abs/2610.23234) | Hierarchical roles + Searcher token OPD | — | NQ, HotpotQA | ❌ |
 | [HiPER](https://arxiv.org/abs/2602.16165) | Plan–execute + HAE | [HiPER-agent](https://github.com/JonP07/HiPER-agent) | [ALFWorld](https://github.com/alfworld/alfworld), [WebShop](https://github.com/princeton-nlp/WebShop) | ✅ |
 | [ArCHer](https://arxiv.org/abs/2402.19446) (ICML 2024) | Hierarchical multi-turn | [YifeiZhou02/ArCHer](https://github.com/YifeiZhou02/ArCHer) | [envs in repo](https://github.com/YifeiZhou02/ArCHer) | ✅ |
 | [SWEET-RL](https://arxiv.org/abs/2503.15478) | Turn-level critic | [facebookresearch/sweet_rl](https://github.com/facebookresearch/sweet_rl) | [ColBench](https://github.com/facebookresearch/sweet_rl) | ✅ |
